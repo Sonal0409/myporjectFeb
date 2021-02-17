@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumTraining" duration-ms="22820" started-at="2021-02-16T03:29:19Z" finished-at="2021-02-16T03:29:42Z">
+    <groups>
+    </groups>
+    <test name="FunctionTesting" duration-ms="22820" started-at="2021-02-16T03:29:19Z" finished-at="2021-02-16T03:29:42Z">
+      <class name="com.qa.testcases.TestCase1">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.qa.testcases.TestCase1@1e5031f]" name="config" is-config="true" duration-ms="8619" started-at="2021-02-16T03:29:19Z" finished-at="2021-02-16T03:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="WikisearchboxTest()[pri:49, instance:com.qa.testcases.TestCase1@1e5031f]" name="WikisearchboxTest" duration-ms="4167" started-at="2021-02-16T03:29:28Z" finished-at="2021-02-16T03:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WikisearchboxTest -->
+        <test-method status="PASS" signature="WikiMainPageTest()[pri:50, instance:com.qa.testcases.TestCase1@1e5031f]" name="WikiMainPageTest" duration-ms="3951" started-at="2021-02-16T03:29:32Z" finished-at="2021-02-16T03:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WikiMainPageTest -->
+        <test-method status="PASS" signature="ISTest()[pri:51, instance:com.qa.testcases.TestCase1@1e5031f]" name="ISTest" duration-ms="5606" started-at="2021-02-16T03:29:36Z" finished-at="2021-02-16T03:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ISTest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.qa.testcases.TestCase1@1e5031f]" name="closebrowser" is-config="true" duration-ms="398" started-at="2021-02-16T03:29:42Z" finished-at="2021-02-16T03:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.testcases.TestCase1 -->
+    </test> <!-- FunctionTesting -->
+  </suite> <!-- SeleniumTraining -->
+</testng-results>
